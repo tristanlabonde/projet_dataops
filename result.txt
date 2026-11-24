@@ -1,0 +1,4 @@
+Document lu : {'id': 1000, 'nom': 'Utilisateur de test 1000', 'age': 73}
+Nombre de lectures : 1000
+Temps total : 1.151359 secondes
+Temps moyen : 1.151359 ms/lecture
